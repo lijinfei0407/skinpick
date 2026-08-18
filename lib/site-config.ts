@@ -1,7 +1,7 @@
 // ============================================================
 // 사용자 테스트 전에 아래 값만 교체하세요.
 // ============================================================
-export const GOOGLE_SHEETS_ENDPOINT = "https://script.google.com/macros/s/AKfycbxyn79ZUUjzQ7kIivntr0ckysEM6SIfFAJa1txt5Ija3R9aC8BLEfhophnpNF4TA37t/exec";
+export const GOOGLE_SHEETS_ENDPOINT = "https://script.google.com/macros/s/AKfycbwI9RCvDXec66cwOGC4useXjofPSLcwLbaU9Z1Yl1dm_GCoU8_UkZKuXMV-1BPiADb93g/exec";
 
 export const MVP_VERSION = "FINAL";
 
