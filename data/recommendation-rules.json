@@ -1,0 +1,32 @@
+{
+    "dry":  {
+                "dryness":  "physiogel-dmt-facial-cream",
+                "oiliness":  "torriden-divein-soothing",
+                "breakout":  "drg-red-blemish-soothing-ex",
+                "sensitivity":  "larocheposay-cicaplast-baume-b5-plus"
+            },
+    "oily":  {
+                 "dryness":  "torriden-divein-soothing",
+                 "oiliness":  "numbuzin-no1-pantothenic-soothing",
+                 "breakout":  "numbuzin-no1-pantothenic-soothing",
+                 "sensitivity":  "abib-heartleaf-calming"
+             },
+    "combination":  {
+                        "dryness":  "innisfree-greentea-seed-hyaluronic",
+                        "oiliness":  "numbuzin-no1-pantothenic-soothing",
+                        "breakout":  "drg-red-blemish-soothing-ex",
+                        "sensitivity":  "abib-heartleaf-calming"
+                    },
+    "normal":  {
+                   "dryness":  "snature-aqua-squalane-moisture",
+                   "oiliness":  "torriden-divein-soothing",
+                   "breakout":  "drg-red-blemish-soothing-ex",
+                   "sensitivity":  "illiyoon-ceramide-ato"
+               },
+    "unknown":  {
+                    "dryness":  "cetaphil-moisturizing-cream",
+                    "oiliness":  "torriden-divein-soothing",
+                    "breakout":  "drg-red-blemish-soothing-ex",
+                    "sensitivity":  "physiogel-dmt-facial-cream"
+                }
+}

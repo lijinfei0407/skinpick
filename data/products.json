@@ -1,0 +1,505 @@
+[
+    {
+        "productId":  "aestura-atobarrier365",
+        "name":  "에스트라 아토베리어365 크림",
+        "volume":  "80ml",
+        "listPrice":  "33,000원",
+        "displayedPrice":  "24,950원",
+        "priceValue":  24950,
+        "priceTier":  "20000_29999",
+        "texture":  "rich_nourishing",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "건조함과 민감함을 고민하는 사용자가 확인할 수 있는 보습 크림 후보",
+        "reasons":  [
+                        "공식 브랜드 페이지에서 피부 장벽을 지켜주는 보습 크림으로 소개하고 있습니다.",
+                        "건조함 또는 쉽게 민감해지는 피부를 선택한 사용자가 비교할 후보로 제안합니다."
+                    ],
+        "caution":  "개인별 사용감과 적합성은 다를 수 있으므로 전성분과 사용 시 주의사항을 확인해 주세요.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000198320",
+        "purchaseUrl":  "https://oy.run/kDISeyG07YMXLU",
+        "imagePath":  "/products/aestura-atobarrier365.png",
+        "skinTypes":  [
+                          "dry",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "dryness",
+                             "sensitivity"
+                         ]
+    },
+    {
+        "productId":  "roundlab-birch-moisture",
+        "name":  "라운드랩 자작나무 수분 크림",
+        "volume":  "80ml",
+        "listPrice":  "32,000원",
+        "displayedPrice":  "25,600원",
+        "priceValue":  25600,
+        "priceTier":  "20000_29999",
+        "texture":  "moist_hydrated",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "건조함이 고민이지만 다양한 수분크림을 비교하기 어려운 사용자의 후보",
+        "reasons":  [
+                        "올리브영에서 속수분 크림으로 소개되는 제품입니다.",
+                        "건조함을 선택한 중성·복합성 사용자에게 확인할 후보로 제안합니다."
+                    ],
+        "caution":  "‘속수분’은 판매 페이지의 제품 설명이며 모든 사람에게 같은 결과를 보장하지 않습니다.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000145579",
+        "purchaseUrl":  "https://oy.run/Ch2IDbX0XAXcEP",
+        "imagePath":  "/products/roundlab-birch-moisture.png",
+        "skinTypes":  [
+                          "combination",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "dryness"
+                         ]
+    },
+    {
+        "productId":  "torriden-divein-soothing",
+        "name":  "토리든 다이브인 저분자 히알루론산 수딩 크림",
+        "volume":  "100ml",
+        "listPrice":  "24,000원",
+        "displayedPrice":  "16,800원",
+        "priceValue":  16800,
+        "priceTier":  "under_20000",
+        "texture":  "low_stickiness",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "유분이 부담되면서도 수분 부족을 고민하는 사용자의 수딩 크림 후보",
+        "reasons":  [
+                        "저분자 히알루론산 수딩 크림으로 판매되는 제품입니다.",
+                        "지성·복합성 또는 유분 고민을 선택한 사용자가 비교할 후보로 제안합니다."
+                    ],
+        "caution":  "제품명에 포함된 성분만으로 개인 피부에 맞는다고 판단할 수 없으므로 전성분을 확인해 주세요.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000258296",
+        "purchaseUrl":  "https://oy.run/PRyhIqOU70sv9D",
+        "imagePath":  "/products/torriden-divein-soothing.png",
+        "skinTypes":  [
+                          "dry",
+                          "oily",
+                          "normal",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "dryness",
+                             "oiliness"
+                         ]
+    },
+    {
+        "productId":  "drg-red-blemish-soothing-ex",
+        "name":  "닥터지 레드 블레미쉬 클리어 수딩 크림 EX",
+        "volume":  "70ml",
+        "listPrice":  "38,000원",
+        "displayedPrice":  "26,600원",
+        "priceValue":  26600,
+        "priceTier":  "20000_29999",
+        "texture":  "light_fresh",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "트러블이 자주 생긴다고 응답한 사용자가 확인할 수 있는 수딩 크림 후보",
+        "reasons":  [
+                        "수딩 크림으로 소개되는 제품입니다.",
+                        "트러블이 자주 생긴다는 고민을 선택한 사용자가 비교할 후보로 제안합니다."
+                    ],
+        "caution":  "트러블을 진단하거나 치료하는 추천이 아닙니다. 증상이 지속되면 전문가와 상담해 주세요.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000251651",
+        "purchaseUrl":  "https://oy.run/jYd6QCU20BrNsF",
+        "imagePath":  "/products/drg-red-blemish-soothing-ex.png",
+        "skinTypes":  [
+                          "dry",
+                          "oily",
+                          "combination",
+                          "normal",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "breakout"
+                         ]
+    },
+    {
+        "productId":  "illiyoon-ceramide-ato",
+        "name":  "일리윤 세라마이드 아토 집중 크림",
+        "volume":  "75ml",
+        "listPrice":  "6,900원",
+        "displayedPrice":  "5,900원",
+        "priceValue":  5900,
+        "priceTier":  "under_20000",
+        "texture":  "rich_nourishing",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "건조함·민감함과 함께 가격 부담도 비교해 볼 수 있는 크림 후보",
+        "reasons":  [
+                        "세라마이드 아토 집중 크림으로 판매되는 제품입니다.",
+                        "건조함 또는 민감함을 선택한 사용자가 비교할 후보로 제안합니다."
+                    ],
+        "caution":  "제품명이나 특정 성분만으로 개인 피부 적합성을 보장하지 않습니다.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000233237",
+        "purchaseUrl":  "https://oy.run/fEwwRFxkVcdJTe",
+        "imagePath":  "/products/illiyoon-ceramide-ato.png",
+        "skinTypes":  [
+                          "dry",
+                          "normal"
+                      ],
+        "skinConcerns":  [
+                             "sensitivity"
+                         ]
+    },
+    {
+        "productId":  "bringgreen-teatree-cica",
+        "name":  "브링그린 티트리 시카 수딩 크림 플러스",
+        "volume":  "100ml",
+        "listPrice":  "19,000원",
+        "displayedPrice":  "17,100원",
+        "priceValue":  17100,
+        "priceTier":  "under_20000",
+        "texture":  "light_fresh",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "과도한 유분이나 트러블을 걱정하는 사용자의 수딩 크림 후보",
+        "reasons":  [
+                        "올리브영에서 수부지·유수분 밸런스 제품으로 소개됩니다.",
+                        "지성·복합성 피부에서 유분 또는 트러블 고민을 선택한 사용자가 확인할 후보입니다."
+                    ],
+        "caution":  "식물 유래 성분을 포함한 모든 성분은 개인에 따라 다르게 느껴질 수 있으므로 전성분을 확인해 주세요.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000226553",
+        "purchaseUrl":  "https://oy.run/LRVndEz6F8HbcP",
+        "imagePath":  "/products/bringgreen-teatree-cica.png",
+        "skinTypes":  [
+                          "oily",
+                          "combination"
+                      ],
+        "skinConcerns":  [
+                             "oiliness",
+                             "breakout"
+                         ]
+    },
+    {
+        "productId":  "abib-heartleaf-calming",
+        "name":  "아비브 어성초 크림 카밍 튜브",
+        "volume":  "75ml",
+        "listPrice":  "35,000원",
+        "displayedPrice":  "24,500원",
+        "priceValue":  24500,
+        "priceTier":  "20000_29999",
+        "texture":  "light_fresh",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "피부가 쉽게 민감해진다고 느끼는 사용자의 카밍 크림 후보",
+        "reasons":  [
+                        "올리브영에서 쿨링·진정 콘셉트로 소개되는 제품입니다.",
+                        "쉽게 민감해진다는 고민을 선택한 사용자가 비교할 후보로 제안합니다."
+                    ],
+        "caution":  "진정 또는 카밍이라는 제품 설명이 의학적 치료를 의미하지 않습니다.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000198721",
+        "purchaseUrl":  "https://oy.run/8XNZ5XauogBZ9i",
+        "imagePath":  "/products/abib-heartleaf-calming.png",
+        "skinTypes":  [
+                          "oily",
+                          "combination"
+                      ],
+        "skinConcerns":  [
+                             "sensitivity"
+                         ]
+    },
+    {
+        "productId":  "manyo-panthetoin",
+        "name":  "마녀공장 판테토인 크림",
+        "volume":  "80ml",
+        "listPrice":  "29,200원",
+        "displayedPrice":  "20,700원",
+        "priceValue":  20700,
+        "priceTier":  "20000_29999",
+        "texture":  "rich_nourishing",
+        "priceCheckedAt":  "2026-08",
+        "feature":  "건조함을 중심으로 보습 제품을 찾는 사용자의 크림 후보",
+        "reasons":  [
+                        "공식 전성분에 판테놀, 엑토인, 세라마이드NP 등이 기재된 보습 크림입니다.",
+                        "건조함을 선택한 건성·중성 사용자가 비교할 후보로 제안합니다."
+                    ],
+        "caution":  "성분이 포함되어 있다는 사실만으로 완제품의 효능이나 개인 적합성이 보장되지는 않습니다.",
+        "detailUrl":  "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000199404",
+        "purchaseUrl":  "https://oy.run/HjBb6o3lfD5I3w",
+        "imagePath":  "/products/manyo-panthetoin.png",
+        "skinTypes":  [
+                          "normal"
+                      ],
+        "skinConcerns":  [
+                             "dryness"
+                         ]
+    },
+    {
+        "productId":  "isntree-hyaluronic-aqua-gel",
+        "name":  "이즈앤트리 히아루론산 아쿠아 젤 크림",
+        "displayedPrice":  "13,500원",
+        "priceValue":  13500,
+        "priceTier":  "under_20000",
+        "texture":  "light_fresh",
+        "volume":  "100ml",
+        "imagePath":  "/products/isntree-hyaluronic-aqua-gel.png",
+        "purchaseUrl":  "https://oy.run/29T7opnmQ40CkD",
+        "feature":  "가볍고 산뜻한 젤 제형으로 수분감을 더하는 보습 크림",
+        "reasons":  [
+                        "가볍고 산뜻한 사용감을 선호하는 경우 비교할 수 있는 수분 크림입니다.",
+                        "지성 또는 복합성 피부의 수분 부족 고민에 맞춰 제안합니다."
+                    ],
+        "caution":  "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "skinTypes":  [
+                          "oily",
+                          "combination",
+                          "normal"
+                      ],
+        "skinConcerns":  [
+                             "dryness",
+                             "oiliness"
+                         ]
+    },
+    {
+        "productId":  "cetaphil-moisturizing-cream",
+        "name":  "세타필 모이스춰라이징 크림",
+        "displayedPrice":  "12,000원",
+        "priceValue":  12000,
+        "priceTier":  "under_20000",
+        "texture":  "rich_nourishing",
+        "volume":  "100g",
+        "imagePath":  "/products/cetaphil-moisturizing-cream.png",
+        "purchaseUrl":  "https://oy.run/HsDVlmN9qfYjvm",
+        "feature":  "촉촉하고 밀도 있는 보습감을 원하는 사용자를 위한 크림",
+        "reasons":  [
+                        "풍부한 보습감을 선호하는 경우 비교할 수 있는 크림입니다.",
+                        "건조함과 민감함이 함께 고민되는 피부에 맞춰 제안합니다."
+                    ],
+        "caution":  "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "skinTypes":  [
+                          "dry",
+                          "normal",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "dryness",
+                             "sensitivity"
+                         ]
+    },
+    {
+        "productId":  "innisfree-greentea-seed-hyaluronic",
+        "name":  "이니스프리 그린티 씨드 히알루론산 크림",
+        "displayedPrice":  "18,500원",
+        "priceValue":  18500,
+        "priceTier":  "under_20000",
+        "texture":  "moist_hydrated",
+        "volume":  "50ml",
+        "imagePath":  "/products/innisfree-greentea-seed-hyaluronic.png",
+        "purchaseUrl":  "https://oy.run/SbeXN3XD531KAK",
+        "feature":  "수분 보습을 중심으로 사용하는 데일리 크림",
+        "reasons":  [
+                        "수분감 있는 보습 크림을 찾는 경우 비교할 수 있습니다.",
+                        "건조함이 고민인 복합성 또는 보통 피부에 맞춰 제안합니다."
+                    ],
+        "caution":  "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "skinTypes":  [
+                          "combination",
+                          "normal",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "dryness"
+                         ]
+    },
+    {
+        "productId":  "snature-aqua-squalane-moisture",
+        "name":  "에스네이처 아쿠아 스쿠알란 수분크림",
+        "displayedPrice":  "21,900원",
+        "priceValue":  21900,
+        "priceTier":  "20000_29999",
+        "texture":  "moist_hydrated",
+        "volume":  "60ml",
+        "imagePath":  "/products/snature-aqua-squalane-moisture.png",
+        "purchaseUrl":  "https://oy.run/XqKsFYL4dhjKkv",
+        "feature":  "수분감과 촉촉한 보습감을 함께 원하는 사용자를 위한 크림",
+        "reasons":  [
+                        "수분 보습감을 선호하는 경우 비교할 수 있는 크림입니다.",
+                        "건조함이 고민인 건성 또는 보통 피부에 맞춰 제안합니다."
+                    ],
+        "caution":  "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "skinTypes":  [
+                          "dry",
+                          "normal",
+                          "combination"
+                      ],
+        "skinConcerns":  [
+                             "dryness"
+                         ]
+    },
+    {
+        "productId":  "numbuzin-no1-pantothenic-soothing",
+        "name":  "넘버즈인 1번 판토텐산 액티브 수딩 크림",
+        "displayedPrice":  "23,800원",
+        "priceValue":  23800,
+        "priceTier":  "20000_29999",
+        "texture":  "low_stickiness",
+        "volume":  "80ml",
+        "imagePath":  "/products/numbuzin-no1-pantothenic-soothing.png",
+        "purchaseUrl":  "https://oy.run/LZ9La5rzdifgBX",
+        "feature":  "끈적임을 줄인 산뜻한 보습감을 원하는 사용자를 위한 수딩 크림",
+        "reasons":  [
+                        "끈적임 없는 사용감을 선호하는 경우 비교할 수 있습니다.",
+                        "유분감과 트러블 고민이 있는 지성 또는 복합성 피부에 맞춰 제안합니다."
+                    ],
+        "caution":  "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "skinTypes":  [
+                          "oily",
+                          "combination"
+                      ],
+        "skinConcerns":  [
+                             "oiliness",
+                             "breakout"
+                         ]
+    },
+    {
+        "productId":  "physiogel-dmt-facial-cream",
+        "name":  "피지오겔 데일리 모이스처 테라피 페이셜 크림",
+        "displayedPrice":  "26,500원",
+        "priceValue":  26500,
+        "priceTier":  "20000_29999",
+        "texture":  "rich_nourishing",
+        "volume":  "75ml",
+        "imagePath":  "/products/physiogel-dmt-facial-cream.png",
+        "purchaseUrl":  "https://oy.run/fzFuT8sDXyiNrw",
+        "feature":  "풍부한 보습감으로 건조하고 민감한 피부를 위한 페이셜 크림",
+        "reasons":  [
+                        "밀도 있는 보습감을 선호하는 경우 비교할 수 있습니다.",
+                        "건조함과 민감함이 고민인 피부에 맞춰 제안합니다."
+                    ],
+        "caution":  "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "skinTypes":  [
+                          "dry",
+                          "normal",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "dryness",
+                             "sensitivity"
+                         ]
+    },
+    {
+        "productId":  "larocheposay-cicaplast-baume-b5-plus",
+        "name":  "라로슈포제 시카플라스트 밤 B5+",
+        "displayedPrice":  "34,000원",
+        "priceValue":  34000,
+        "priceTier":  "30000_plus",
+        "texture":  "rich_nourishing",
+        "volume":  "100ml",
+        "imagePath":  "/products/larocheposay-cicaplast-baume-b5-plus.png",
+        "purchaseUrl":  "https://oy.run/SmhJwTVJqEZmCZ",
+        "feature":  "보습막을 더해 편안한 사용감을 원하는 사용자를 위한 밤 타입 크림",
+        "reasons":  [
+                        "풍부하고 밀도 있는 보습감을 선호하는 경우 비교할 수 있습니다.",
+                        "건조함 또는 민감함, 트러블 고민이 있는 피부에 맞춰 제안합니다."
+                    ],
+        "caution":  "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "skinTypes":  [
+                          "dry",
+                          "normal",
+                          "unknown"
+                      ],
+        "skinConcerns":  [
+                             "dryness",
+                             "sensitivity",
+                             "breakout"
+                         ]
+    },
+    {
+        "productId": "klairs-midnight-blue-calming",
+        "brand": "디어클레어스",
+        "name": "블루 카밍 크림",
+        "volume": "60g",
+        "listPrice": "29,500원",
+        "displayedPrice": "17,430원",
+        "priceValue": 17430,
+        "priceTier": "under_20000",
+        "texture": "moist_hydrated",
+        "priceCheckedAt": "2026-08-19",
+        "feature": "민감해진 피부의 붉은기와 자극을 편안하게 진정시키는 카밍 크림",
+        "reasons": ["병풀 추출물과 구아이아줄렌을 담은 진정 크림입니다.", "촉촉한 사용감을 선호하며 민감함이 고민인 피부에 맞춰 제안합니다."],
+        "caution": "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "imagePath": "https://image.oliveyoung.co.kr/cfimages/cf-goods/uploads/images/thumbnails/10/0000/0020/A00000020960816ko.jpg?l=ko",
+        "detailUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000209608",
+        "purchaseUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000209608",
+        "skinTypes": ["dry", "oily", "combination", "normal"],
+        "skinConcerns": ["sensitivity"]
+    },
+    {
+        "productId": "dewytree-ac-deep-calming",
+        "brand": "듀이트리",
+        "name": "AC 딥 흔적 진정 크림",
+        "volume": "60ml",
+        "listPrice": "28,000원",
+        "displayedPrice": "17,560원",
+        "priceValue": 17560,
+        "priceTier": "under_20000",
+        "texture": "light_fresh",
+        "priceCheckedAt": "2026-08-19",
+        "feature": "트러블 흔적과 열감 진정을 함께 고려한 산뜻한 수분크림",
+        "reasons": ["병풀·판테놀·세라마이드와 여러 형태의 히알루론산을 담았습니다.", "트러블과 민감함이 고민이며 가벼운 사용감을 선호하는 피부에 맞춰 제안합니다."],
+        "caution": "페퍼민트 계열 성분이 포함되어 있으므로 민감한 피부는 전성분 확인 후 국소 테스트해 주세요.",
+        "imagePath": "https://image.oliveyoung.co.kr/cfimages/cf-goods/uploads/images/thumbnails/10/0000/0021/A00000021272405ko.jpg?l=ko",
+        "detailUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000212724",
+        "purchaseUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000212724",
+        "skinTypes": ["oily", "combination"],
+        "skinConcerns": ["breakout", "sensitivity"]
+    },
+    {
+        "productId": "reveam-waterfit-moisture",
+        "brand": "리브엠",
+        "name": "워터핏 8중 수분착붙 크림",
+        "volume": "100ml",
+        "listPrice": "12,900원",
+        "displayedPrice": "10,900원",
+        "priceValue": 10900,
+        "priceTier": "under_20000",
+        "texture": "moist_hydrated",
+        "priceCheckedAt": "2026-08-19",
+        "feature": "피부 속부터 겹겹이 수분을 채우는 대용량 수분 보습 크림",
+        "reasons": ["여러 단계의 히알루론산을 활용한 수분 보습 제품입니다.", "건조함이 고민이며 촉촉한 사용감을 선호하는 경우 비교할 수 있습니다."],
+        "caution": "개인 피부 상태와 성분 적합성은 다를 수 있으므로 전성분과 사용 전 주의사항을 확인해 주세요.",
+        "imagePath": "https://image.oliveyoung.co.kr/cfimages/cf-goods/uploads/images/thumbnails/10/0000/0023/A00000023273122ko.jpg?l=ko",
+        "detailUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000232731",
+        "purchaseUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000232731",
+        "skinTypes": ["dry", "oily", "combination", "normal", "unknown"],
+        "skinConcerns": ["dryness"]
+    },
+    {
+        "productId": "aboutme-forest-calming-moisture",
+        "brand": "어바웃미",
+        "name": "숲 진정 수분 크림",
+        "volume": "80ml",
+        "listPrice": "30,000원",
+        "displayedPrice": "14,040원",
+        "priceValue": 14040,
+        "priceTier": "under_20000",
+        "texture": "moist_hydrated",
+        "priceCheckedAt": "2026-08-19",
+        "feature": "제주 편백수 77.7%로 속건조와 진정을 고려한 100시간 수분 지속 크림",
+        "reasons": ["공식 상품 설명에서 모든 피부 타입과 풍부한 수분감을 안내하는 제품입니다.", "건조함과 민감함이 고민이며 촉촉한 사용감을 선호하는 피부에 맞춰 제안합니다."],
+        "caution": "현재 판매가는 행사 가격이며 판매 시점에 따라 정상가로 변경될 수 있습니다.",
+        "imagePath": "https://image.oliveyoung.co.kr/cfimages/cf-goods/uploads/images/thumbnails/10/0000/0016/A00000016461416ko.jpg?l=ko",
+        "detailUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000164614",
+        "purchaseUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000164614",
+        "skinTypes": ["dry", "oily", "combination", "normal"],
+        "skinConcerns": ["dryness", "sensitivity"]
+    },
+    {
+        "productId": "thelab-oligo-hyaluronic-calming-plus",
+        "brand": "더랩바이블랑두",
+        "name": "저분자 히알루론산 카밍+ 크림",
+        "volume": "50ml",
+        "listPrice": "23,000원",
+        "displayedPrice": "16,100원",
+        "priceValue": 16100,
+        "priceTier": "under_20000",
+        "texture": "rich_nourishing",
+        "priceCheckedAt": "2026-08-19",
+        "feature": "저분자 히알루론산으로 수분을 채우고 피부 장벽을 관리하는 크림",
+        "reasons": ["저분자 히알루론산을 중심으로 수분과 피부 장벽 관리를 고려한 제품입니다.", "건조함과 민감함이 고민이며 보습감 있는 사용감을 선호하는 피부에 맞춰 제안합니다."],
+        "caution": "현재 판매가는 행사 가격이며 판매 시점에 따라 정상가로 변경될 수 있습니다.",
+        "imagePath": "https://image.oliveyoung.co.kr/cfimages/cf-goods/uploads/images/thumbnails/10/0000/0013/A00000013534011ko.jpg?l=ko",
+        "detailUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000135340",
+        "purchaseUrl": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000135340",
+        "skinTypes": ["dry", "normal", "unknown"],
+        "skinConcerns": ["dryness", "sensitivity"]
+    }
+]
