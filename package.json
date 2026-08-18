@@ -6,14 +6,16 @@
     "node": ">=22.13.0"
   },
   "scripts": {
-    "dev": "vinext dev",
-    "dev:mobile": "vinext dev --hostname 0.0.0.0",
-    "build": "vinext build",
-    "start": "vinext start",
-    "test": "npm run build && node --test tests/*.test.mjs",
+    "dev": "next dev",
+    "dev:mobile": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "build:vinext": "vinext build",
+    "start": "next start",
+    "test": "npm run build:vinext && node --test tests/*.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"
   },
   "dependencies": {
+    "next": "16.2.6",
     "react": "19.2.6",
     "react-dom": "19.2.6"
   },
