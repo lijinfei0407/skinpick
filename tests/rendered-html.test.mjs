@@ -147,7 +147,7 @@ test("keeps settings, storage, completion, and image fallback behavior explicit"
   assert.doesNotMatch(page, /팀원에게 안내받은|participant-code|테스트 번호를 입력해 주세요/);
   assert.match(page, /finish\(true\)/);
   assert.match(page, /screen: "rejection"/);
-  assert.match(page, /실제 사용자 리뷰를 확인할 수 없음/);
+  assert.doesNotMatch(page, /실제 사용자 리뷰를 확인할 수 없음/);
   assert.doesNotMatch(page, /가격이 맞지 않음|원하는 사용감인지 알 수 없음/);
   assert.match(page, /rejectionReason === "other"/);
   assert.match(page, /reasonClarityScore/);

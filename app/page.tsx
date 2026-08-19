@@ -41,7 +41,6 @@ const rejectionReasons: Array<{ value: RejectionReason; label: string }> = [
   { value: "brand", label: "선호하거나 신뢰하는 브랜드가 아님" },
   { value: "insufficient_info", label: "제품 정보가 부족함" },
   { value: "concern_mismatch", label: "내 피부 고민이 충분히 반영되지 않은 것 같음" },
-  { value: "reviews_unavailable", label: "실제 사용자 리뷰를 확인할 수 없음" },
   { value: "low_trust", label: "추천 근거를 신뢰하기 어려움" },
   { value: "other", label: "기타" },
 ];
@@ -356,8 +355,8 @@ export default function Home() {
     setQuiz(emptyQuiz);
   };
 
-  const openPurchasePage = (event: React.MouseEvent<HTMLAnchorElement>) => {
-    if (!product || !alternativeProduct || !isConfiguredValue(product.purchaseUrl ?? "")) {
+  const openPurchasePage = (event: React.MouseEvent<HTMLAnchorElement>, targetProduct: Product) => {
+    if (!product || !alternativeProduct || !isConfiguredValue(targetProduct.purchaseUrl ?? "")) {
       event.preventDefault();
       window.alert("구매 페이지가 아직 등록되지 않았습니다.");
       return;
@@ -550,26 +549,28 @@ export default function Home() {
                       {product.reasons.map((reason, index) => <li key={reason}><span>{index + 2}</span>{reason}</li>)}
                     </ol>
                     <div className="caution-box"><b>확인해 주세요</b><p>{product.caution}</p></div>
-                    <a className="purchase-link" href={isConfiguredValue(product.purchaseUrl ?? "") ? product.purchaseUrl : "#purchase-link-not-configured"} target="_blank" rel="noopener noreferrer" onClick={openPurchasePage}>제품 보러가기 <span aria-hidden="true">↗</span></a>
+                    <a className="purchase-link" href={isConfiguredValue(product.purchaseUrl ?? "") ? product.purchaseUrl : "#purchase-link-not-configured"} target="_blank" rel="noopener noreferrer" onClick={(event) => openPurchasePage(event, product)}>제품 보러가기 <span aria-hidden="true">↗</span></a>
                   </div>
                 </div>
                 <div className="alternative-card">
                   <div className="alternative-copy">
-                    <span className="alternative-badge">대안 추천 · 2순위</span>
+                    <span className="alternative-badge">대안 추천</span>
                     {alternativeProduct.brand && <p className="product-brand">{alternativeProduct.brand}</p>}
                     <h3>{alternativeProduct.name}</h3>
                     <p>{alternativeProduct.feature}</p>
                     <div className="alternative-meta"><b>{alternativeProduct.displayedPrice}</b><span>{alternativeProduct.volume}</span><span>{labelForTexture(alternativeProduct.texture)}</span></div>
+                    <a className="purchase-link alternative-purchase-link" href={isConfiguredValue(alternativeProduct.purchaseUrl ?? "") ? alternativeProduct.purchaseUrl : "#purchase-link-not-configured"} target="_blank" rel="noopener noreferrer" onClick={(event) => openPurchasePage(event, alternativeProduct)}>제품 보러가기 <span aria-hidden="true">↗</span></a>
                   </div>
                   <ProductVisual imagePath={alternativeProduct.imagePath} name={alternativeProduct.name} />
                 </div>
                 <div className="alternative-card">
                   <div className="alternative-copy">
-                    <span className="alternative-badge">대안 추천 · 3순위</span>
+                    <span className="alternative-badge">대안 추천</span>
                     {thirdProduct.brand && <p className="product-brand">{thirdProduct.brand}</p>}
                     <h3>{thirdProduct.name}</h3>
                     <p>{thirdProduct.feature}</p>
                     <div className="alternative-meta"><b>{thirdProduct.displayedPrice}</b><span>{thirdProduct.volume}</span><span>{labelForTexture(thirdProduct.texture)}</span></div>
+                    <a className="purchase-link alternative-purchase-link" href={isConfiguredValue(thirdProduct.purchaseUrl ?? "") ? thirdProduct.purchaseUrl : "#purchase-link-not-configured"} target="_blank" rel="noopener noreferrer" onClick={(event) => openPurchasePage(event, thirdProduct)}>제품 보러가기 <span aria-hidden="true">↗</span></a>
                   </div>
                   <ProductVisual imagePath={thirdProduct.imagePath} name={thirdProduct.name} />
                 </div>
